@@ -1,0 +1,12 @@
+{
+  "name": "atm",
+  "version": "1.0.0",
+  "description": "Atm program",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "debug": "node --inspect app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
