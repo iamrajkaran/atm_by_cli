@@ -15,7 +15,9 @@ Start of program
 * npm run debug for debugging
 
 Schema design:
+    
     * Used to store user's balance info, credit & debit info with other users
+    
     ex - financeInfo = {
         user: {
             balance,
@@ -30,6 +32,7 @@ Schema design:
             },
         }
     };
+    
     * Used to store current login info and till now logged in users
     ex - logInInfo = {
         currentLogin: 'N/A',
