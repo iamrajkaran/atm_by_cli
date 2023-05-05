@@ -49,3 +49,6 @@ Dependencies:
     No third party
     fs  - for saving state in file
     readline - for taking commands via CLI
+    
+  Enhancements:
+  Break single file into multiple components for better readability
